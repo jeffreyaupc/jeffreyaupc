@@ -5,7 +5,7 @@ I completed my Bachelor's Degree on Business Administration at University of Tor
 business functions including risk management, marketing, strategic management, human resource management, finance & accounting, etc.<br><br>
 I also have professional experience in sales, customer service and business administration.
 
-I’m looking to collaborate on any data ETL process, data analysis, data visualization, and machine learning!
+Currently looking to pursue a data analyst career! I’m interested in any data ETL process, data analysis, data visualization, and machine learning.
 
 My portfolio: https://jeffreyaupc.github.io/portfolio/
 
